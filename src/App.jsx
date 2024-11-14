@@ -11,7 +11,7 @@ function App() {
       <div className="min-h-screen bg-gradient-to-b from-green-900 to-green-800">
         {/* GitHub link */}
         <a
-          href="https://github.com/yourusername/korotus-game"
+          href="https://github.com/teemunl/Korotus-game"
           target="_blank"
           rel="noopener noreferrer"
           className="fixed top-4 left-4 z-50 bg-white/90 p-2 rounded-full shadow-lg hover:bg-white transition-colors"
